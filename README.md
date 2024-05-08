@@ -1,4 +1,3 @@
-# PYTHON-CODSOFT
 # Python CodSoft-Internship
 
 Hi, my name is Aditya Jain from Maharaja Surajmal Institute.
